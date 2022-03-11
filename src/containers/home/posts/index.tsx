@@ -57,7 +57,7 @@ const Posts: React.FunctionComponent<PostsProps> = () => {
 
   return (
     <BlogPostsWrapper>
-      <SecTitle>Latest Stories</SecTitle>
+      <SecTitle>Latest Projects</SecTitle>
       {Posts.map(({ node }: any) => {
         const title = node.frontmatter.title || node.fields.slug;
         return (

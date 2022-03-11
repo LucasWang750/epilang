@@ -1,6 +1,6 @@
 ---
 title: This could be another section
-date: '2019-05-25'
+date: '2022-02-25'
 tags: ['react', 'code', 'markdown']
 cover: './preview.jpg'
 ---
