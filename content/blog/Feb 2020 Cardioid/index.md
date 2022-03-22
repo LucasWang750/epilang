@@ -1,5 +1,5 @@
 ---
-title: This could be another section
+title: Cardioid
 date: '2022-02-25'
 tags: ['react', 'code', 'markdown']
 cover: './preview.jpg'
